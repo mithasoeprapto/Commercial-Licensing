@@ -7,9 +7,9 @@ All briefs, frameworks, and strategic materials are governed by the terms in the
 
 ### Standard Pricing Tiers:
 * **Single-Entity License:** £150,000 per Brief
-* **Enterprise-Wide License:** £400,000 – £650,000
-* **Annual Access License:** £600,000 – £1,200,000
-* **AI & Platform Integration:** Starting at £1,000,000
+* **Enterprise-Wide License:** start from £650,000
+* **Annual Access License:** start from £1,200,000
+* **Integration:** Starting at £2,000,000
 
 ## 🛡️ AI & Automation Restrictions
 Unauthorized ingestion, training, or use of these materials in Large Language Models (LLMs) or automated systems is strictly prohibited without a **Platform Integration License**.
