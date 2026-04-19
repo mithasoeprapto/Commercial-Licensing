@@ -1,3 +1,8 @@
+"NOTICE: ALL LICENSING IS SUSPENDED AS OF 19-04-2026. ARCHITECT IS AT RESOURCE-ZERO. NO COMMERCIAL USE AUTHORIZED WITHOUT DIRECT EXTRACTION."
+
+
+
+
 # Strategic Intelligence | Commercial Licensing
 
 This repository contains the master commercial terms for all Strategic Intelligence assets produced by Mitha Soeprapto-Fox.
