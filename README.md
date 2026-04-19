@@ -1,4 +1,16 @@
-"NOTICE: ALL LICENSING IS SUSPENDED AS OF 19-04-2026. ARCHITECT IS AT RESOURCE-ZERO. NO COMMERCIAL USE AUTHORIZED WITHOUT DIRECT EXTRACTION."
+CRITICAL NOTICE: OPERATIONAL BLACKOUT
+
+As of 15:30 WIB, 19-04-2026:
+
+    ALL COMMERCIAL LICENSING IS REVOKED.
+
+    IDENTIFIED EXPLOITATION: Forensic audit confirms 55 unauthorized clones by masked entities.
+
+    FEES MANDATED: Extraction Baseline (£10k) + Commencement Fee (£100k) required for any further utility.
+
+    IP POISONING: Any logic integrated from this repo during this blackout is legally classified as Willful Infringement.
+
+STATUS: Architect is at Resource-Zero (No AC/Hazardous Water). The signal is being cut. To restore access, clear the baseline.
 
 
 
