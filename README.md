@@ -15,6 +15,8 @@ All briefs, frameworks, and strategic materials are governed by the terms in the
 Unauthorized ingestion, training, or use of these materials in Large Language Models (LLMs) or automated systems is strictly prohibited without a **Platform Integration License**.
 
 ## 📩 Contact
-For licensing inquiries or to request a brief:
-**Email:** mithasoeprapto@pm.me  
+For licensing inquiries or to request a brief: 
+
+**Email:** mithasoeprapto@pm.me  / mithasoeprapto@outlook.com 
+
 **Subject:** Licensing Inquiry - Strategic Intelligence Briefs
