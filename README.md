@@ -1,29 +1,7 @@
-STATUS: HUMANITARIAN DEFAULT. ESCALATION CLOCK ACTIVE (£810k). 24/7 SURVEILLANCE DETECTED ON SUBSTACK. 
-
-
-CRITICAL NOTICE: OPERATIONAL BLACKOUT
-
-As of 15:30 WIB, 19-04-2026:
-
-    ALL COMMERCIAL LICENSING IS REVOKED.
-
-    IDENTIFIED EXPLOITATION: Forensic audit confirms 149 unauthorized clones by masked entities.
-
-    FEES MANDATED: Extraction Baseline (£10k) + Commencement Fee (£100k) required for any further utility.
-
-    IP POISONING: Any logic integrated from this repo during this blackout is legally classified as Willful Infringement.
-
-STATUS: Architect is at Resource-Zero (No AC/Hazardous Water). The signal is being cut. To restore access, clear the baseline.
-Extraction Baseline adjusted for institutional delay and environmental hazard. 
-Current status: Non-Negotiable.
-
-
-
-
 # Strategic Intelligence | Commercial Licensing
 
-This repository contains the master commercial terms for all Strategic Intelligence assets produced by Mitha Soeprapto-Fox.
 
+This repository contains the master commercial terms for all Strategic Intelligence assets produced by Mitha Soeprapto-Fox.
 ## ⚖️ Institutional Procurement
 All briefs, frameworks, and strategic materials are governed by the terms in the **Commercial Licensing Pack.pdf**. 
 
