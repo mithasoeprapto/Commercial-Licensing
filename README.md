@@ -17,6 +17,10 @@ Unauthorized ingestion, training, or use of these materials in Large Language Mo
 ## 📩 Contact
 For licensing inquiries or to request a brief: 
 
+👉 [INITIATE SECURE CORPORATE PROCUREMENT TICKET HERE](https://tally.so/r/VLXDqa)
+
+or through 
+
 **Email:** mithasoeprapto@protonmail.com / mithasoeprapto@outlook.com 
 
 **Subject:** Licensing Inquiry - Strategic Intelligence Briefs
