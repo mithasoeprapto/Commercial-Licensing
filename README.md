@@ -14,14 +14,9 @@ All briefs, frameworks, and strategic materials are governed by the terms in the
 ## 🛡️ AI & Automation Restrictions
 Unauthorised ingestion, training, or use of these materials in Large Language Models (LLMs) or automated systems is strictly prohibited without a **Platform Integration License**.
 
-## 📩 Contact
-For licensing inquiries or to request a brief: 
-
-[Initiate secure intake form here](https://tally.so/r/VLXDqa)
+## 📩 Get In Touch
 
 
-Primary Desk: [whiskerlineadvisory@gmail.com](mailto:whiskerlineadvisory@gmail.com)  
-Secure Backup: [mithasoeprapto@outlook.com](mailto:mithasoeprapto@outlook.com)  
-Encrypted Communications: Telegram [@mithasoe](https://t.me/@mithasoe) 
+[Inquire about a brief](https://tally.so/r/VLXDqa)
 
-**Subject:** Licensing Inquiry - Strategic Intelligence Briefs
+Email: [whiskerlineadvisory@gmail.com](mailto:whiskerlineadvisory@gmail.com)  
